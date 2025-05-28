@@ -4,13 +4,13 @@ export default function Experiencia() {
       <h3>Experiencia Profesional</h3>
       <ul>
         <li>
-          <strong>Desarrollador Full Stack</strong> - Navisoft Gaming (2022-2024)
+          <strong>Desarrolladora Full Stack</strong> - GLOBANT (2022-2025)
         </li>
         <li>
-          <strong>Instructor TIC</strong> - SENA (2020-2022)
+          <strong>Desarrolladora Full Stack</strong> - EPAM (2025-2028)
         </li>
         <li>
-          <strong>Logistico Merkahorro S.A.S</strong> - Supermercados Merkahorro (2024-2025)
+          <strong>Chef en tortas caseras</strong> Tortas Eli -  (2023-2030)
         </li>
       </ul>
     </section>
