@@ -1,6 +1,6 @@
-Nombre del proyecto: cv-react-juan-garcia
+Nombre del proyecto: cv-react-tatiana-vanegas
 
-![alt text](image.png)
+![alt text](captura-cv.png)
 
 Instrucciones para ejecutar el proyecto:
 1. Clonar el respositorio y ejecutarlo en vscode
