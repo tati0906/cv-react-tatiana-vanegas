@@ -14,7 +14,7 @@ export default function Educacion() {
       <ul>
         {educacion.map((edu) => (
           <li key={edu.id}>
-            <strong>{edu.titulo}</strong> - {edu.universidad} ({edu.periodo})
+            <strong>{edu.institucion}</strong> - {edu.curso} ({edu.año})
           </li>
         ))}
       </ul>

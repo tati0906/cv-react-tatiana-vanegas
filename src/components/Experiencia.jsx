@@ -28,7 +28,7 @@ export default function Experiencia() {
       <ul>
         {experiencia.map((exp) => (
           <li key={exp.id}>
-            <strong>{exp.puesto}</strong> - {exp.empresa} ({exp.periodo})
+            <strong>{exp.cargo}</strong> - {exp.empresa} ({exp.año}) ({exp.descripcion})
           </li>
         ))}
       </ul>
