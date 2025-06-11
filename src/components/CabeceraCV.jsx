@@ -1,12 +1,14 @@
+// src/components/CabeceraCV.jsx
 import "./cabecera.css";
 
-
-export default function CabeceraCV() {
+import React from "react";
+// Ejemplo para CabeceraCV.jsx
+function CabeceraCV({ nombre, profesion }) {
   return (
-    <header class="cabeza">
-      <h1>Tatiana Vanegas Muñoz</h1>
-      <h2>Desarrolladora Full Stack</h2>
-      <p>📞 301 6331729 | ✉️ tatianavanegas2006@email.com | 🌆 Medellin, Colombia</p>
+    <header class = "cabeza">
+      <h1>{nombre}</h1>
+      <h2>{profesion}</h2>
     </header>
   );
 }
+export default CabeceraCV;
