@@ -26,25 +26,25 @@ export const Educacion = [
     id: 3,
     titulo: "Curso de React.js",
     universidad: "Platzi",
-    periodo: "2025-2027"
+    periodo: "2023-2026"
   },
   {
     id: 4,
     titulo: "Desarrollo Web Full Stack",
     universidad: "Udemy",
-    periodo: "2025-2027"
+    periodo: "2024-2025"
   },
   {
     id: 5,
     titulo: "Taller de JavaScript Avanzado",
     universidad: "SENA",
-    periodo: "2025-2027"
+    periodo: "2025-2026"
   },
   {
     id: 6,
     titulo: "Curso de tecnicas para hacer cuadros",
     universidad: "Galeria de arte",
-    periodo: "2025-2027"
+    periodo: "2022-2024"
   },
 ];
 
@@ -65,49 +65,49 @@ export const Experiencia = [
     id: 3,
     puesto: "Proyecto: E-commerce",
     empresa: "Freelance",
-    periodo: "2020-2022"
+    periodo: "2021-2022"
   },
   {
     id: 4,
     puesto: "Analista de Datos",
     empresa: "DataCorp",
-    periodo: "2020-2022"
+    periodo: "2024-2025"
   },
   {
     id: 5,
     puesto: "Desarrolladora Full Stack",
     empresa: "WebMasters",
-    periodo: "2020-2022"
+    periodo: "2023-2025"
   },
   {
     id: 6,
     puesto: "Proyecto: App Mobile",
     empresa: "Freelance",
-    periodo: "2020-2022"
+    periodo: "2022-2024"
   },
   {
     id: 7,
     puesto: "Soporte Técnico",
     empresa: "IT Services",
-    periodo: "2020-2022"
+    periodo: "2020-2023"
   },
   {
     id: 8,
     puesto: "Desarrollador Junior",
     empresa: "StartUpX",
-    periodo: "2020-2022"
+    periodo: "2025-2028"
   },
   {
     id: 9,
     puesto: "Proyecto: Portfolio",
     empresa: "Personal",
-    periodo: "2020-2022"
+    periodo: "2026-2027"
   },
   {
     id: 10,
     puesto: "Practicante TI",
     empresa: "Tech Academy",
-    periodo: "2020-2022"
+    periodo: "2022-2024"
   }
 ];
 
@@ -124,13 +124,13 @@ export const Proyectos = [
     id: 1,
     nombre: "Web E-commerce",
     descripcion: "Plataforma de venta de productos en línea con carrito de compras.",
-    enlace: "https://github.com/usuario/proyecto-ecommerce"
+
   },
   {
     id: 2,
     nombre: "App de Tareas",
     descripcion: "Aplicación móvil para gestionar tareas diarias con React Native.",
-    enlace: "https://github.com/usuario/app-tareas"
+    
   }
 ];
 
