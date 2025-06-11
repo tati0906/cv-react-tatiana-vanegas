@@ -5,6 +5,7 @@ export default function Perfil({ texto }) {
   return (
     <section>
       <h3>Perfil</h3>
+      <h3></h3>
       <p>{texto}</p>
       <p>{}</p>
       <hr />
