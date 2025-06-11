@@ -6,6 +6,7 @@ export default function Educacion({ estudios }) {
     return (
       <section>
         <h3>Educación</h3>
+        <h3></h3>
         <p>No se ha registrado formación académica.</p>
         <hr />
       </section>
