@@ -3,12 +3,16 @@ import Perfil from "./components/Perfil.jsx";
 import Educacion from "./components/Educacion.jsx";
 import Experiencia from "./components/Experiencia.jsx";
 import StackTecnologias from "./components/StackTecnologias.jsx";
+import Proyectos from "./components/Proyectos.jsx";
+import Habilidades from "./components/Habilidades.jsx";
 import {
   CabeceraCV as cabeceraData,
   Perfil as perfilData,
   Educacion as educacionData,
   Experiencia as experienciaData,
-  stackTecnologias
+  stackTecnologias,
+  Proyectos as proyectosData,
+  Habilidades as habilidadesData
 } from "./data/cvData";
 
 function App() {
@@ -19,6 +23,8 @@ function App() {
       <Educacion estudios={educacionData} />
       <Experiencia trabajos={experienciaData} />
       <StackTecnologias tecnologias={stackTecnologias} />
+      <Proyectos proyectos={proyectosData} />
+      <Habilidades habilidades={habilidadesData} />
     </div>
   );
 }
