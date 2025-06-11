@@ -8,6 +8,7 @@ function CabeceraCV({ nombre, profesion }) {
     <header class = "cabeza">
       <h1>{nombre}</h1>
       <h2>{profesion}</h2>
+      <h2>{}</h2>
     </header>
   );
 }
