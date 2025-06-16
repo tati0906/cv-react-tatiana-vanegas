@@ -12,7 +12,7 @@ export default function ToggleHabilidades({ habilidades }) {
   return (
     <section>
       <button onClick={handleToggle}>
-        {mostrar ? "Ocultar Habilidades" : "Mostrar Habilidades"}
+        {mostrar ? "Ocultar Habilidades." : "Mostrar Habilidades"}
       </button>
 
       {mostrar && <Habilidades habilidades={habilidades} />}
