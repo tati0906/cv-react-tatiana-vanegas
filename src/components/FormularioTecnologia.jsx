@@ -1,7 +1,8 @@
 // src/components/FormularioTecnologia.jsx
-import React, { useState } from "react.";
+import React, { useState } from "react";
 
 export default function FormularioTecnologia({ onAgregar }) {
+  // ...resto del código...
   const [nombre, setNombre] = useState("");
   const [tipo, setTipo] = useState("");
 
