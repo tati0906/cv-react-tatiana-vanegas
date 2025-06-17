@@ -12,7 +12,7 @@ export const Perfil = {
 export const Educacion = [
   {
     id: 1,
-    titulo: "Ingeniera de Sistemas",
+    titulo: "Ingeniera de Sistemas.",
     universidad: "Universidad Nacional",
     periodo: "2028-2033"
   },
