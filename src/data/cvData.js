@@ -19,7 +19,7 @@ export const Educacion = [
    {
     id: 2,
     titulo: "Tecnologa en Programación de Software",
-    universidad: "SENA",
+    universidad: "SENA.",
     periodo: "2025-2027."
   },
   {
