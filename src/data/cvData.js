@@ -25,7 +25,7 @@ export const Educacion = [
   {
     id: 3,
     titulo: "Curso de React.js",
-    universidad: "Platzi.",
+    universidad: "Platzi",
     periodo: "2023-2026"
   },
   {
