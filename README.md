@@ -23,6 +23,6 @@ Instalar las dependencias:
 -npm install
 Inicia el servidor de desarrollo:
 -npm run dev
-Abra su navegador http://localhost:5173para ver la aplicación.
+Abra su navegador http://localhost:5173 para ver la aplicación.
 
 ![alt text](image-1.png)
